@@ -1,0 +1,4 @@
+opencv-python>=4.8.0
+opencv-contrib-python>=4.8.0
+ultralytics>=8.1.0
+numpy>=1.23.5
